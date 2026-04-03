@@ -1,0 +1,10 @@
+{
+  "name": "vorsprung-lbo-model",
+  "version": "1.0.0",
+  "description": "Build a complete LBO financial model as an Excel file for a single-target acquisition by Vorsprung Partners. Covers German SME succession deals: sources & uses, debt schedule, P&L forecast, IRR/MoM returns — following the Vorsprung template methodology.",
+  "author": {
+    "name": "Vorsprung Partners",
+    "email": "fl@vorsprungpartners.com"
+  },
+  "keywords": ["lbo", "financial-model", "private-equity", "m&a", "german-mittelstand", "vorsprung"]
+}

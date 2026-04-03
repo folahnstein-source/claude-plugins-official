@@ -1,0 +1,10 @@
+{
+  "name": "flugbuchungstool",
+  "version": "1.0.0",
+  "description": "Recherchiert und vergleicht buchbare Flugoptionen über mehrere Plattformen (Google Flights, Skyscanner, Kayak, Airline-Direktseiten, Expedia). Liefert eine strukturierte Vergleichstabelle mit Ranking, Preisdetails, Gepäckregeln und klaren Buchungsempfehlungen.",
+  "author": {
+    "name": "Vorsprung Partners",
+    "email": "fl@vorsprungpartners.com"
+  },
+  "keywords": ["flights", "travel", "booking", "flugsuche", "flugvergleich", "german"]
+}

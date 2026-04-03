@@ -1,0 +1,10 @@
+{
+  "name": "vorsprung-cim-teaser",
+  "version": "1.0.0",
+  "description": "Converts a seller CIM (Confidential Information Memorandum) into a first-draft investor teaser in Vorsprung Partners house style. Extracts investor-relevant facts, anonymises confidential identifiers, and produces a concise 2-page draft with a Redaction Log — ready for deal team review.",
+  "author": {
+    "name": "Vorsprung Partners",
+    "email": "fl@vorsprungpartners.com"
+  },
+  "keywords": ["cim", "teaser", "m&a", "private-equity", "investor-materials", "vorsprung", "deal-marketing"]
+}

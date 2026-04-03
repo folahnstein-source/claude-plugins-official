@@ -1,0 +1,10 @@
+{
+  "name": "verkehrsrecht-analyse",
+  "version": "1.0.0",
+  "description": "Analysiert deutsche Verkehrsordnungswidrigkeiten-Schreiben (Bußgeldbescheide, Anhörungsbögen, Zeugenfragebogen). Führt vollständige Vorprüfung durch: Fristenkontrolle, formelle/materielle Prüfung, Rechtsprechungsrecherche und erstellt Einspruchs- und Akteneinsichtsentwürfe.",
+  "author": {
+    "name": "Vorsprung Partners",
+    "email": "fl@vorsprungpartners.com"
+  },
+  "keywords": ["verkehrsrecht", "bußgeld", "einspruch", "owi", "german-law", "legal", "traffic"]
+}

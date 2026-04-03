@@ -1,0 +1,10 @@
+{
+  "name": "vorsprung-commercial-dd",
+  "version": "1.0.0",
+  "description": "Run a quick commercial due diligence on a German SME target for Vorsprung Partners. Produces a structured 10-section markdown report with an investment view (Attractive / Neutral / Not Attractive) within a 48-hour speed standard.",
+  "author": {
+    "name": "Vorsprung Partners",
+    "email": "fl@vorsprungpartners.com"
+  },
+  "keywords": ["due-diligence", "commercial-dd", "private-equity", "german-mittelstand", "vorsprung", "m&a"]
+}

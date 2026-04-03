@@ -1379,6 +1379,116 @@
         "sha": "0705316ef8a2d0c64f81e50d4612ccc6a74edf03"
       },
       "homepage": "https://zoominfo.com"
+    },
+    {
+      "name": "vorsprung-lbo-model",
+      "version": "1.0.0",
+      "description": "Build a complete LBO financial model as an Excel file for German SME acquisitions. Covers sources & uses, debt schedule, P&L forecast, and IRR/MoM returns following Vorsprung Partners' template methodology.",
+      "author": {
+        "name": "Vorsprung Partners",
+        "email": "fl@vorsprungpartners.com"
+      },
+      "category": "finance",
+      "source": "./plugins/vorsprung-lbo-model",
+      "keywords": [
+        "lbo",
+        "financial-model",
+        "private-equity",
+        "m&a",
+        "german-mittelstand"
+      ]
+    },
+    {
+      "name": "vorsprung-commercial-dd",
+      "version": "1.0.0",
+      "description": "Run a quick commercial due diligence on a German SME target. Produces a 10-section markdown report with an Attractive / Neutral / Not Attractive investment view within 48 hours.",
+      "author": {
+        "name": "Vorsprung Partners",
+        "email": "fl@vorsprungpartners.com"
+      },
+      "category": "finance",
+      "source": "./plugins/vorsprung-commercial-dd",
+      "keywords": [
+        "due-diligence",
+        "commercial-dd",
+        "private-equity",
+        "german-mittelstand",
+        "m&a"
+      ]
+    },
+    {
+      "name": "spa-red-flag-dd",
+      "version": "1.0.0",
+      "description": "Screen and redline Share Purchase Agreement drafts from the buyer's perspective. Works with German and English SPAs. Generates RED/AMBER/GREEN report and inserts Word track-changes redlines into the seller's document.",
+      "author": {
+        "name": "Vorsprung Partners",
+        "email": "fl@vorsprungpartners.com"
+      },
+      "category": "legal",
+      "source": "./plugins/spa-red-flag-dd",
+      "keywords": [
+        "spa",
+        "m&a",
+        "legal",
+        "due-diligence",
+        "redline",
+        "german-law"
+      ]
+    },
+    {
+      "name": "verkehrsrecht-analyse",
+      "version": "1.0.0",
+      "description": "Analysiert deutsche Verkehrsordnungswidrigkeiten-Schreiben. Führt vollständige Vorprüfung durch: Fristenkontrolle, formelle/materielle Prüfung, Rechtsprechungsrecherche, Einspruchs- und Akteneinsichtsentwürfe.",
+      "author": {
+        "name": "Vorsprung Partners",
+        "email": "fl@vorsprungpartners.com"
+      },
+      "category": "legal",
+      "source": "./plugins/verkehrsrecht-analyse",
+      "keywords": [
+        "verkehrsrecht",
+        "bußgeld",
+        "einspruch",
+        "german-law",
+        "legal"
+      ]
+    },
+    {
+      "name": "flugbuchungstool",
+      "version": "1.0.0",
+      "description": "Recherchiert und vergleicht buchbare Flugoptionen über Google Flights, Skyscanner, Kayak und Airline-Direktseiten. Strukturierte Vergleichstabelle mit Ranking, Preisdetails und Buchungsempfehlungen.",
+      "author": {
+        "name": "Vorsprung Partners",
+        "email": "fl@vorsprungpartners.com"
+      },
+      "category": "productivity",
+      "source": "./plugins/flugbuchungstool",
+      "keywords": [
+        "flights",
+        "travel",
+        "booking",
+        "flugsuche",
+        "german"
+      ]
+    },
+    {
+      "name": "vorsprung-cim-teaser",
+      "version": "1.0.0",
+      "description": "Converts a seller CIM into a 2-page investor teaser in Vorsprung Partners house style. Extracts facts, anonymises identifiers, and produces a draft with Redaction Log — ready for deal team review.",
+      "author": {
+        "name": "Vorsprung Partners",
+        "email": "fl@vorsprungpartners.com"
+      },
+      "category": "finance",
+      "source": "./plugins/vorsprung-cim-teaser",
+      "keywords": [
+        "cim",
+        "teaser",
+        "m&a",
+        "private-equity",
+        "investor-materials",
+        "vorsprung"
+      ]
     }
   ]
 }

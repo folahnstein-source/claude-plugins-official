@@ -1,0 +1,10 @@
+{
+  "name": "spa-red-flag-dd",
+  "version": "1.0.0",
+  "description": "Screen and redline Share Purchase Agreement drafts from the buyer's perspective. Works with German and English SPAs. Generates a RED/AMBER/GREEN traffic-light report and inserts Word track-changes redlines directly into the seller's draft.",
+  "author": {
+    "name": "Vorsprung Partners",
+    "email": "fl@vorsprungpartners.com"
+  },
+  "keywords": ["spa", "m&a", "legal", "due-diligence", "redline", "german-law", "vorsprung", "private-equity"]
+}
